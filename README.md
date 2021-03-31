@@ -1,5 +1,8 @@
 # Parcial segundo tercio servicio ln (logaritmo natural)
-Implementamos el servicio de logaritmo natural, la página de la máquina http://ec2-54-164-101-107.compute-1.amazonaws.com:8081/ln?value=54  
+Implementamos el servicio de logaritmo natural, la página de la máquina  
+http://ec2-54-164-101-107.compute-1.amazonaws.com:8081/ln?value=54  
+Enlace de la prueba  
+https://youtu.be/fQYvFD96nRA  
 Enlace del segundo repositorio
 https://github.com/Carlos96999/AREP-PArCIAL-T2ATAN
 ## Prerequisitos
